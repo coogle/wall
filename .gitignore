@@ -5,7 +5,7 @@ composer
 zendframework
 .env
 VagrantConfig.json
-vendor/*
+vendor
 .buildpath
 .htaccess
 .project
