@@ -1,0 +1,19 @@
+!.gitignore
+.puppet-key-generated
+.composer
+composer
+zendframework
+.env
+autoload.php
+VagrantConfig.json
+vendor/*
+.buildpath
+.htaccess
+.project
+.settings
+.vagrant
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
